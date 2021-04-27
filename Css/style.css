@@ -68,7 +68,7 @@ h1, h2, h3 , h4, h5, h6 {
   <-- My Work Section Constructed using CSS Grid -->
   My Work {
     padding: 60px 30px;
-    padding-top: 0;
+    padding-top:0;
     background-color: #EBEBEB;
   }
   .workGrid {
@@ -88,7 +88,7 @@ h1, h2, h3 , h4, h5, h6 {
     display: block;
 
     /* Cards */
-.content {
+content {
   padding: 50px;
 }
 .sectionHeading {
@@ -97,5 +97,4 @@ h1, h2, h3 , h4, h5, h6 {
 
 .cardContainer {
   text-align: center;
-  
-  
+}
